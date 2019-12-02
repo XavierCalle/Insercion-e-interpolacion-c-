@@ -112,3 +112,5 @@ bool busqueda(int arreglo[],int n, int num,int c)
         return false;
     }
 }
+
+//ESTO ES PARA MODIFICAR ALV :v
